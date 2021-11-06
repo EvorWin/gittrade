@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EgorVunogradov/tradr.git/static/css/main.077d5158.chunk.css",
+    "main.js": "/EgorVunogradov/tradr.git/static/js/main.189db64d.chunk.js",
+    "main.js.map": "/EgorVunogradov/tradr.git/static/js/main.189db64d.chunk.js.map",
+    "runtime-main.js": "/EgorVunogradov/tradr.git/static/js/runtime-main.5ccfef70.js",
+    "runtime-main.js.map": "/EgorVunogradov/tradr.git/static/js/runtime-main.5ccfef70.js.map",
+    "static/css/2.a2ab3232.chunk.css": "/EgorVunogradov/tradr.git/static/css/2.a2ab3232.chunk.css",
+    "static/js/2.915069aa.chunk.js": "/EgorVunogradov/tradr.git/static/js/2.915069aa.chunk.js",
+    "static/js/2.915069aa.chunk.js.map": "/EgorVunogradov/tradr.git/static/js/2.915069aa.chunk.js.map",
+    "index.html": "/EgorVunogradov/tradr.git/index.html",
+    "static/css/2.a2ab3232.chunk.css.map": "/EgorVunogradov/tradr.git/static/css/2.a2ab3232.chunk.css.map",
+    "static/css/main.077d5158.chunk.css.map": "/EgorVunogradov/tradr.git/static/css/main.077d5158.chunk.css.map",
+    "static/js/2.915069aa.chunk.js.LICENSE.txt": "/EgorVunogradov/tradr.git/static/js/2.915069aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ccfef70.js",
+    "static/css/2.a2ab3232.chunk.css",
+    "static/js/2.915069aa.chunk.js",
+    "static/css/main.077d5158.chunk.css",
+    "static/js/main.189db64d.chunk.js"
+  ]
+}
